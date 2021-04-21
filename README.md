@@ -7,9 +7,9 @@ Assignement 1: Object Detection
 $ pip install requirement.txt
 ```
 
-For the problem2 only:
+For Github Users only:
 Since Github doesn't allow file over 100Mb, download the weights file following this link: https://pjreddie.com/media/files/yolov3.weights
-
+Once the file is downloaded, place it into the directory containing the executable.
 ## Usage
 
 ```bash
